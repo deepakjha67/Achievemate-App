@@ -31,9 +31,16 @@
       [
         "expo-asset",
         {
-          "assets": ["./index.html"] 
+          "assets": [
+            "./index.html"
+          ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "064647b0-c2d4-4ad9-af08-cfcea5ec8b8d"
+      }
+    }
   }
 }
